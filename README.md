@@ -6,10 +6,10 @@ This repository contains the code for the study titled:
 
 ## Overview
 
-This study investigates how **character strengths** influence **user engagement** with *moderated online social therapy* — a digital mental health platform offering individualized, evidence-based treatment for young people aged 12–25 in Australia.
+This study investigates how **character strengths** influence **user engagement** with *moderated online social therapy* - a digital mental health platform offering individualized, evidence-based treatment for young people aged 12–25 in Australia.
 
 With data from **6,967 users** enrolled between August 2021 and July 2023, we explored whether character strengths across three dimensions, **social harmony**, **positive determination**, and **courage and creativity**, predicted:
-- **Dropout rates** over time
+- **Dropout rates**
 - **Usage patterns** during the first 12 weeks after onboarding
 
 ## Key Findings
