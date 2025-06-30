@@ -20,4 +20,13 @@ With data from **6,967 users** enrolled between August 2021 and July 2023, we ex
 
 These findings highlight how individual character strengths shape **distinct engagement trajectories**, with implications for **personalizing digital mental health platforms**.
 
+## Packages
+
+This project was developed in R (version >= 4.2.0). Key packages used include:
+
+- survival
+- lmerTest
+- reactable
+- stats
+- tidyverse
 
