@@ -1,4 +1,4 @@
-# Engagement on a DigitalMental Health Platform
+# Engagement on a Digital Mental Health Platform
 
 This repository contains the code for the study titled:
 
